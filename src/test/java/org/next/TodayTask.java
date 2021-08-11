@@ -14,5 +14,11 @@ public class TodayTask {
 		return a;
 
 	}
+	public void empId() {
+		System.out.println("Id is 123456789");
+	}
+	public void empName() {
+		System.out.println("Employee Name is kavin");
+	}
 	
 }
